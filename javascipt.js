@@ -9,11 +9,11 @@ var fg = new Image();
 var pipeNorth = new Image();
 var pipeSouth = new Image();
 
-bird.src = "images/bird.png";
-bg.src = "images/bg1.jpg";
-fg.src = "images/fg.png";
-pipeNorth.src = "images/pn.png";
-pipeSouth.src = "images/ps1.png";
+bird.src = "bird.png";
+bg.src = "bg1.jpg";
+fg.src = "fg.png";
+pipeNorth.src = "pn.png";
+pipeSouth.src = "ps1.png";
 
 
 // some variables
@@ -33,8 +33,8 @@ var score = 0;
 var fly = new Audio();
 var scor = new Audio();
 
-fly.src = "sounds/LA Rush - 01 - APM - Driving.mp3";
-scor.src = "sounds/Rad Racer - Game Over.mp3";
+fly.src = "LA Rush - 01 - APM - Driving.mp3";
+scor.src = "Rad Racer - Game Over.mp3";
 
 // on key down
 
